@@ -6,8 +6,8 @@ something about your goals here
 
 ## Progress
 
-Current Course: The Odin Project
-Current Book: You Don't Know JS: Scope & Closures
+Current Course: The Odin Project  
+Current Book: You Don't Know JS: Scope & Closures  
 Courses Completed: 0  
 Total Points earned: 
 
