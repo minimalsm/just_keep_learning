@@ -9,12 +9,12 @@ something about your goals here
 Current Course: The Odin Project  
 Current Book: You Don't Know JS: Scope & Closures  
 Courses Completed: 0  
-Total Points earned: 
+Total Points earned: 100
 
 | Date Finished | Activity                       | Points | Links  |           
 | ------------- | ------------------------------ | ------ | ------------------------------------------------------------- |
 | 28/04/20      | Project: Rock, Paper, Scissors | 100    | [Live](https://minimalsm.github.io/rock_paper_scissors_game/) |
-|               |                                |        |                                                               |
+| In Progress   | Project: Etch-a-Sketch         |        | [Live](https://minimalsm.github.io/etch_a_sketch/)            |
 |               |                                |        |                                                               |
 |               |                                |        |                                                               |
 |               |                                |        |                                                               |
