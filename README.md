@@ -11,9 +11,14 @@ Current Book: You Don't Know JS: Scope & Closures
 Courses Completed: 0  
 Total Points earned: 
 
-| Date Finished | Activity                  | Points | Links  |           
-| ------------- | ------------------------- | ------ | ------------------------------------------- |
-|  |  |  |  |
+| Date Finished | Activity                       | Points | Links  |           
+| ------------- | ------------------------------ | ------ | ------------------------------------------------------------- |
+| 28/04/20      | Project: Rock, Paper, Scissors | 100    | [Live](https://minimalsm.github.io/rock_paper_scissors_game/) |
+|               |                                |        |                                                               |
+|               |                                |        |                                                               |
+|               |                                |        |                                                               |
+|               |                                |        |                                                               |
+|               |                                |        |                                                               |
 
 
 ## Web Dev with Computer Science
