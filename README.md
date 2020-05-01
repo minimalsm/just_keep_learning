@@ -20,6 +20,13 @@ Total Points earned: 100
 |               |                                |        |                                                               |
 |               |                                |        |                                                               |
 
+## App Ideas
+- Add2Cart Bot
+- Discord Bot
+- Wardrobe App (Similar to Cladwell)
+- Braun Calculator
+- Instrmnt CSS watch
+- Password Manager
 
 ## Web Dev with Computer Science
 
