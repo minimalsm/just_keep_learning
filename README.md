@@ -22,6 +22,7 @@ Total Points earned: 700
 |               | Course: ShayHowe HTML/CSS      | 200    | [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)   |
 |               | Project: Braun Calculator      | 200    |                                                                   |
 |               | Course: DS & Algos             | 200    |                                                                   |
+|               | Course: JetBrains Academy      |        |                                                                   |
 
 ## App Ideas
 - Add2Cart Bot
