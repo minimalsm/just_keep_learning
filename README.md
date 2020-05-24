@@ -32,6 +32,8 @@ Total Points earned: 700
 - Instrmnt CSS watch
 - Password Manager
 - DomainAvailablityChecker?
+- Password Hacker
+- Markdown editor
 
 ## Web Dev with Computer Science
 
