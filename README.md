@@ -9,18 +9,19 @@ something about your goals here
 Current Course: The Odin Project  
 Current Book: You Don't Know JS: Scope & Closures  
 Courses Completed: 0  
-Total Points earned: 500
+Total Points earned: 700
 
 | Date Finished | Activity                       | Points | Links  |           
-| ------------- | ------------------------------ | ------ | --------------------------------------------------------------- |
-| 10/05/20      | Project: ScotBnB               | 300    |                                                                 |
-| 01/05/20      | Project: Etch-a-Sketch         | 100    | [Live](https://minimalsm.github.io/etch_a_sketch/)              |
-| 28/04/20      | Project: Rock, Paper, Scissors | 100    | [Live](https://minimalsm.github.io/rock_paper_scissors_game/)   |
-|               | Course: JavaScript30           | 200    | [JavaScript30](https://courses.wesbos.com/account)              |
-|               | Course: The Odin Project       | 500    | [The Odin Project](https://www.theodinproject.com/)             |
-|               | Course: ShayHowe HTML/CSS      | 200    | [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/) |
-|               | Project: Braun Calculator      | 200    |                                                                 |
-|               |                                |        |                                                                 |
+| ------------- | ------------------------------ | ------ | ----------------------------------------------------------------- |
+| 23/05/20      | Project: Pancake Theatre       | 200    | [Live](https://pancaketheatre.azurewebsites.net/Account/Register) |
+| 10/05/20      | Project: ScotBnB               | 300    |                                                                   |
+| 01/05/20      | Project: Etch-a-Sketch         | 100    | [Live](https://minimalsm.github.io/etch_a_sketch/)                |
+| 28/04/20      | Project: Rock, Paper, Scissors | 100    | [Live](https://minimalsm.github.io/rock_paper_scissors_game/)     |
+|               | Course: JavaScript30           | 200    | [JavaScript30](https://courses.wesbos.com/account)                |
+|               | Course: The Odin Project       | 500    | [The Odin Project](https://www.theodinproject.com/)               |
+|               | Course: ShayHowe HTML/CSS      | 200    | [Learn to Code HTML & CSS](http://learn.shayhowe.com/html-css/)   |
+|               | Project: Braun Calculator      | 200    |                                                                   |
+|               |                                |        |                                                                   |
 
 ## App Ideas
 - Add2Cart Bot
