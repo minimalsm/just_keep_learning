@@ -7,7 +7,7 @@ something about your goals here
 ## Progress
 
 Current Course: The Odin Project  
-Current Book: You Don't Know JS: Scope & Closures  
+Current Book: Eloquent Javascript 
 Courses Completed: 0  
 Total Points earned: 700
 
