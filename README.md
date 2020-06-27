@@ -13,6 +13,7 @@ Total Points earned: 700
 
 | Date Finished | Activity                       | Points | Links  |           
 | ------------- | ------------------------------ | ------ | ----------------------------------------------------------------- |
+| 26/06/20      | Project: Monsters Rolodex      | 100    | [Live](https://minimalsm.github.io/monsters-rolodex/)             |
 | 23/05/20      | Project: Pancake Theatre       | 200    | [Live](https://pancaketheatre.azurewebsites.net/Account/Register) |
 | 10/05/20      | Project: ScotBnB               | 300    |                                                                   |
 | 01/05/20      | Project: Etch-a-Sketch         | 100    | [Live](https://minimalsm.github.io/etch_a_sketch/)                |
