@@ -9,7 +9,7 @@ something about your goals here
 Current Course: The Odin Project  
 Current Book: Eloquent Javascript 
 Courses Completed: 0  
-Total Points earned: 700
+Total Points earned: 800
 
 | Date Finished | Activity                       | Points | Links  |           
 | ------------- | ------------------------------ | ------ | ----------------------------------------------------------------- |
