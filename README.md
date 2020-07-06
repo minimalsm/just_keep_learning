@@ -9,10 +9,11 @@ something about your goals here
 Current Course: The Odin Project  
 Current Book: Eloquent Javascript 
 Courses Completed: 0  
-Total Points earned: 800
+Total Points earned: 1000
 
 | Date Finished | Activity                       | Points | Links  |           
 | ------------- | ------------------------------ | ------ | ----------------------------------------------------------------- |
+| 06/07/20      | Project: Crown Clothing.       | 200    | [Live](https://joshuacrownclothing.herokuapp.com/)                |
 | 26/06/20      | Project: Monsters Rolodex      | 100    | [Live](https://minimalsm.github.io/monsters-rolodex/)             |
 | 23/05/20      | Project: Pancake Theatre       | 200    | [Live](https://pancaketheatre.azurewebsites.net/Account/Register) |
 | 10/05/20      | Project: ScotBnB               | 300    |                                                                   |
